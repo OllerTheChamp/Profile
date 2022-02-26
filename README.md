@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @OllerTheCityFox
-- 👀 I’m interested in: Coding game stuff
+- 👀 I’m interested in: Websites and Discord Bots
 - 🌱 I’m currently learning: Java script and html/css
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Send a message
+- 📫 How to reach me: Send a message CityFox#0869 (Discord)
 
 <!---
 OllerTheCityFox/OllerTheCityFox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
