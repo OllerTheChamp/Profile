@@ -10,6 +10,7 @@
 Not really mutch.
 I have created some small websites (none published).
 
+And some basic discord bots (local host).
 <!---
 OllerTheCityFox/OllerTheCityFox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
