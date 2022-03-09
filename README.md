@@ -1,12 +1,12 @@
-Oller
----
+# Oller
+
 - 👋 Hi, I’m @Oller
 - 👀 I’m interested in: Websites and Discord Bots
 - 🌱 I’m currently learning: Java-script and html/css
-- 📫 How to reach me: Send a message Oller#0869 (Discord)
+- 📫 How to reach me: Send a message *Oller#0869* (Discord)
 
-      What have i done?
----
+## What have i done?
+
 Not really mutch.
 I have created some small websites (none published).
 
