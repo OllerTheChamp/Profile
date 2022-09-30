@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in: Websites and Discord Bots.
 - 📖 I’m currently learning: Java-script and html/css.
-- 🧰 I’m working on Code-Gaming.
+- 🧰 I’m working on CodeWork.
 - 📫 How to reach me? Send a message: *Oller#0869* (Discord).
 
 <h3 align="left">What have i created?:</h3>
