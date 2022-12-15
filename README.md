@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Oller</h1>
-<h3 align="center">A minor programmer from Denmark 🇩🇰. I love programming Discord Bots and Create Websites.</h3>
+<h1 align="center">Hi 👋, I'm "Oller"</h1>
+<h3 align="center">A minor programmer from Denmark 🇩🇰. I love programming discord bots and creating websites.</h3>
 
 - 👀 I’m interested in: Websites (front end) and Discord Bots.
 - 📖 I’m currently learning: Java-script & css.
