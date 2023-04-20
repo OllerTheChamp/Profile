@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm "Oller"</h1>
 <h3 align="center">A minor programmer from Denmark 🇩🇰. I love programming discord bots and creating websites.</h3>
 
-- 👀 I’m interested in: Websites (front end) and Discord Bots.
-- 📖 I’m currently learning: Java-script & css.
-- 🧰 I’m working on my own projects.
+- 👀 I’m interested in: Websites (front end primary) and Discord Bots.
+- 📖 I’m currently learning: Java-script & Typescript.
+- 🧰 I’m working on: Anvy.
 - 📫 How to reach me? Send a message: *Oller#0869* (Discord).
 
 <h3 align="left">What have i created?:</h3>
