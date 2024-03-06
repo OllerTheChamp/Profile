@@ -10,7 +10,7 @@ I try to make small projects like portfolio website fitness apps and basic websi
 
 Here are some of the projects I'm currently working on:
 
-1. [Project Name 1](link-to-project-1): Brief description of the project.
+1. [Portfolio Website](link-to-project-1): Brief description of the project.
 2. [Project Name 2](link-to-project-2): Brief description of the project.
 3. [Project Name 3](link-to-project-3): Brief description of the project.
 
