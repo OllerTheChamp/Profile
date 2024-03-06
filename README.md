@@ -12,7 +12,7 @@ Not really mutch. I have created some small websites (none published). And some 
 
 
 
-# Welcome to Oller's GitHub Profile! 👋
+<h1 align="center"> Welcome to Oller's GitHub Profile! 👋</h1>
 
 Hello, I'm [Your Name], a [Your Role/Title] passionate about [Your Areas of Interest or Expertise]. I enjoy crafting solutions that [brief description of your goals or objectives].
 
