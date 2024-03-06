@@ -2,7 +2,7 @@
 <h3 align="center">A minor programmer from Denmark 🇩🇰. I love programming discord bots and creating websites.</h3>
 
 - 👀 I’m interested in: Websites (front end primary) and Discord Bots.
-- 📖 I’m currently learning: Java-script & Typescript.
+- 📖 I’m currently learning: Java-script.
 - 🧰 I’m working on: SweeT Cr!mes.
 - 📫 How to reach me? Send a message: *Oller#0869* (Discord).
 
@@ -14,11 +14,11 @@ Not really mutch. I have created some small websites (none published). And some 
 
 <h1 align="center"> Welcome to Oller's GitHub Profile! 👋</h1>
 
-Hello, I'm Oliver, a minor programmer from Denmark, passionate about discord bots & websites. I enjoy crafting solutions that [brief description of your goals or objectives].
+Hello, I'm Oliver, a minor programmer from Denmark, passionate about discord bots & websites. I enjoy playing with the design and layouts of websites.
 
 ## 🚀 What I Do
 
-I specialize in [Your Key Skills/Technologies], and my work revolves around [Any Specific Domain or Industry Focus]. I believe in [Your Coding Principles or Approach] and strive for excellence in every project.
+I try to make small projects like portfolio website fitness apps and basic website stuff. And learn from that to get better at codin.
 
 ## 🌟 Projects
 
